@@ -34,6 +34,10 @@ Markdown | Less | Pretty
 *Still*  | `renders` | **nicely**
 1 | 2 | 3
 
+## Inserting an Image
+
+Some write up![Some text](https://i2.wp.com/www.firmament-chaos.com/images/osirisra.jpg "Osiris"])
+
 ## Embedding a Video
 
 You can embed a video from youtube or from your own clips, easily using. This can be invaluable when we 

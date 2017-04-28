@@ -11,3 +11,5 @@ The number of drawings required are as follows:
 3.  Basements.
 4.  Gather requirements for any interfaces.
 5.  Electrical Monitoring. 
+
+Works have started at high level and we need to find out how to cover it.
